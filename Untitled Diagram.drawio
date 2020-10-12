@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T15:45:30.802Z" agent="5.0 (X11)" version="13.7.9" etag="1feEtq4OzB6uHZL1SR7r" type="github"><diagram id="BidqIHInNIvZiYCmbNtS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-12T15:54:12.576Z" agent="5.0 (X11)" etag="bHUoVEqC6CfisM7oXaHe" version="13.7.9" type="github">
+  <diagram id="BidqIHInNIvZiYCmbNtS" name="Page-1">
+    <mxGraphModel dx="856" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-2" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="180" as="sourcePoint" />
+            <mxPoint x="425" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-3" value="&lt;div align=&quot;justify&quot;&gt;login&amp;nbsp;&amp;nbsp;&amp;nbsp; = input&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;password = input&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;align=left;" vertex="1" parent="1">
+          <mxGeometry x="365" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-4" value="ввод данных" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Courier New;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-5" value="" style="endArrow=none;html=1;fontFamily=Courier New;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iO957vLTAEIwB8R3Ft5C-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="300" as="sourcePoint" />
+            <mxPoint x="505" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-6" value="Авторизация пользователя" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-9" value="&lt;div&gt;login == input&lt;/div&gt;&lt;div&gt;password == input&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="338" y="300" width="175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-10" value="" style="endArrow=none;html=1;fontFamily=Courier New;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iO957vLTAEIwB8R3Ft5C-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-11" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="510" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
