@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T19:07:34.396Z" agent="5.0 (X11)" etag="AKm9Ddh3sBQopRHTs4sZ" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T19:10:20.703Z" agent="5.0 (X11)" etag="CRJ_70h7E11DHJjqxng6" version="13.7.9" type="github">
   <diagram id="BidqIHInNIvZiYCmbNtS" name="Page-1">
-    <mxGraphModel dx="723" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,23 +172,32 @@
             <mxPoint x="639.6599999999999" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-45" value="ввод данных" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-45" value="запрос кода с телефона " style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="260" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-47" value="ввод данных" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-48" value="ввод данных" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-48" value="?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="580" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-50" value="" style="endArrow=none;html=1;fontFamily=Courier New;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-50" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="479.58000000000004" y="1440" as="sourcePoint" />
-            <mxPoint x="479.58000000000004" y="1300" as="targetPoint" />
+            <mxPoint x="480" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-51" value="выбор нужного" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="420" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-53" value="" style="endArrow=none;html=1;fontFamily=Courier New;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iO957vLTAEIwB8R3Ft5C-51" target="iO957vLTAEIwB8R3Ft5C-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1430" as="sourcePoint" />
+            <mxPoint x="360" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-54" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1437" as="sourcePoint" />
+            <mxPoint x="640" y="1300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
