@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T16:07:13.854Z" agent="5.0 (X11)" etag="e53Lr5FTchBt9IKxkxu3" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T18:49:23.269Z" agent="5.0 (X11)" etag="IDazzag6o2yIlvFhwFmO" version="13.7.9" type="github">
   <diagram id="BidqIHInNIvZiYCmbNtS" name="Page-1">
     <mxGraphModel dx="1021" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="iO957vLTAEIwB8R3Ft5C-6" value="Авторизация пользователя" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="260" y="30" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-9" value="&lt;div&gt;login, password&lt;/div&gt;&lt;div&gt; ==&lt;/div&gt;&lt;div&gt;{login, password}&lt;br&gt; &lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-9" value="&lt;div&gt;login, password&lt;/div&gt;&lt;div&gt; ==&lt;/div&gt;&lt;div&gt;{login, password}&lt;br&gt; &lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="338" y="300" width="175" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iO957vLTAEIwB8R3Ft5C-10" value="" style="endArrow=none;html=1;fontFamily=Courier New;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iO957vLTAEIwB8R3Ft5C-9">
@@ -73,7 +73,7 @@
             <mxPoint x="500" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-21" value="первый вход" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-21" value="первый вход" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="630" y="630" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iO957vLTAEIwB8R3Ft5C-22" value="" style="endArrow=none;html=1;fontFamily=Courier New;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iO957vLTAEIwB8R3Ft5C-21">
@@ -103,8 +103,56 @@
             <mxPoint x="880" y="891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iO957vLTAEIwB8R3Ft5C-27" value="&lt;div&gt;ввод даных&lt;/div&gt;&lt;div&gt; для них&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-27" value="&lt;div&gt;ввод данных&lt;/div&gt;&lt;div&gt; для них&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="820" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-28" value="выбор соцсети" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="420" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-29" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1" source="iO957vLTAEIwB8R3Ft5C-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="890" as="sourcePoint" />
+            <mxPoint x="480" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-31" value="" style="endArrow=none;html=1;fontFamily=Courier New;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iO957vLTAEIwB8R3Ft5C-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1040" as="sourcePoint" />
+            <mxPoint x="530" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-32" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="920" as="sourcePoint" />
+            <mxPoint x="640" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-33" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="920" as="sourcePoint" />
+            <mxPoint x="480" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-34" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1040" as="sourcePoint" />
+            <mxPoint x="640" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-35" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1040" as="sourcePoint" />
+            <mxPoint x="320" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-37" value="телеграм" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-38" value="инстаграм" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-39" value="в" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
