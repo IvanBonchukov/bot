@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T16:01:16.088Z" agent="5.0 (X11)" etag="_SmbqF31BRLopn27aXw8" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T16:06:16.909Z" agent="5.0 (X11)" etag="0kRwkfP4bwnnb43s-OZL" version="13.7.9" type="github">
   <diagram id="BidqIHInNIvZiYCmbNtS" name="Page-1">
-    <mxGraphModel dx="1021" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,39 @@
             <mxPoint x="450" y="460" as="sourcePoint" />
             <mxPoint x="500" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-21" value="первый вход" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="630" y="630" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-22" value="" style="endArrow=none;html=1;fontFamily=Courier New;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iO957vLTAEIwB8R3Ft5C-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="680" as="sourcePoint" />
+            <mxPoint x="750" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-23" value="" style="endArrow=none;html=1;fontFamily=Courier New;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iO957vLTAEIwB8R3Ft5C-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="680" as="sourcePoint" />
+            <mxPoint x="670" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-24" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="830" as="sourcePoint" />
+            <mxPoint x="880" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-25" value="&lt;div&gt;выбор соцсетей&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="820" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-26" value="" style="endArrow=none;html=1;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="1040" as="sourcePoint" />
+            <mxPoint x="880" y="891" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO957vLTAEIwB8R3Ft5C-27" value="&lt;div&gt;ввод даных&lt;/div&gt;&lt;div&gt; для них&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
