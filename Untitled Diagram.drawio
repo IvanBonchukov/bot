@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T19:55:51.933Z" agent="5.0 (X11)" etag="7qi5JmBkVopP-3ym0Cey" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T19:58:24.075Z" agent="5.0 (X11)" etag="-z-CHEfkLF3J868I1XyC" version="13.7.9" type="github">
   <diagram id="BidqIHInNIvZiYCmbNtS" name="Page-1">
-    <mxGraphModel dx="1718" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2090" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,13 +597,10 @@
             <mxPoint x="30" y="3750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vw7gao-NNTFxPZmJ1eEq-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="3879" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vw7gao-NNTFxPZmJ1eEq-69" value="считывание файла" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="300" y="4080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vw7gao-NNTFxPZmJ1eEq-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="vw7gao-NNTFxPZmJ1eEq-70" value="выбор ответа на основе файла" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="300" y="4240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vw7gao-NNTFxPZmJ1eEq-71" value="" style="endArrow=none;html=1;fontSize=9;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vw7gao-NNTFxPZmJ1eEq-70" target="vw7gao-NNTFxPZmJ1eEq-69">
@@ -611,6 +608,9 @@
             <mxPoint x="320" y="4220" as="sourcePoint" />
             <mxPoint x="370" y="4170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vw7gao-NNTFxPZmJ1eEq-72" value="выбор ответа на основе файла" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="3879" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
