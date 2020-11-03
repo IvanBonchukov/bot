@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T19:41:27.284Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.8.8" etag="BGdAMKlNeWT8C8n2D5W_" type="github"><diagram id="gPN2VmFHj9h0x5eAkItu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-03T19:44:55.675Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="xHN7fOTe2QQRHvaJd8MY" version="13.8.8" type="github">
+  <diagram id="gPN2VmFHj9h0x5eAkItu" name="Page-1">
+    <mxGraphModel dx="806" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oO2J7ep9OOL4rfaTniO6-1" value="Кнопка &quot;Почати&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oO2J7ep9OOL4rfaTniO6-2" value="Форма &quot;Карта&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oO2J7ep9OOL4rfaTniO6-3" value="Main Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oO2J7ep9OOL4rfaTniO6-4" value="Panel2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
